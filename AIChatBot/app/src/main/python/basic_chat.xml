@@ -1,0 +1,58 @@
+<aiml>
+<category>
+        <pattern>WHO IS FATHER</pattern>
+        <template>
+           $father
+            </random>
+        </template>
+</category>
+<category>
+<pattern>WHO IS MOTHER</pattern>
+<template>
+    $mother
+</random>
+</template>
+    </category>
+<category>
+<pattern>WHO IS SISTER</pattern>
+<template>
+    $sister
+</random>
+</template>
+    </category>
+<category>
+<pattern>WHO IS BROTHER</pattern>
+<template>
+    $brother
+</random>
+</template>
+    </category>
+<category>
+<pattern>WHO IS UNCLE</pattern>
+<template>
+    $uncle
+</random>
+</template>
+    </category>
+<category>
+<pattern>WHO IS AUNT</pattern>
+<template>
+    $aunt
+</random>
+</template>
+    </category>
+<category>
+<pattern>WHO AM I</pattern>
+<template>
+    $me
+</random>
+</template>
+    </category>
+<category>
+<pattern>WHO IS UNCLE</pattern>
+<template>
+    $uncle
+</random>
+</template>
+    </category>
+</aiml>

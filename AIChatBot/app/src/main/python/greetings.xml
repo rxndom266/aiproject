@@ -1,0 +1,53 @@
+<aiml>
+<category>
+        <pattern>HELLO</pattern>
+        <template>
+            <random>
+                <li>Hey there!</li>
+                <li>Hi!</li>
+                <li>Hello!</li>
+                <li>Nice to meet you!</li>
+            </random>
+        </template>
+    </category>
+<category>
+    <pattern>HI</pattern>
+        <template>
+            <random>
+                <li>Hey there!</li>
+                <li>Hi!</li>
+                <li>Hello!</li>
+                <li>Nice to meet you!</li>
+            </random>
+        </template>
+</category>
+<category>
+    <pattern>HEY</pattern>
+        <template>
+            <random>
+                <li>Hey there!</li>
+                <li>Hi!</li>
+                <li>Hello!</li>
+                <li>Nice to meet you!</li>
+            </random>
+        </template>
+</category>
+    <category>
+    <pattern>GOOD *</pattern>
+        <template>
+            <random>
+                <li>Good <star/>!</li>
+            </random>
+        </template>
+</category>
+<category>
+    <pattern>BYE</pattern>
+        <template>
+            <random>
+                <li>Goodbye</li>
+                <li>Bye bye</li>
+                <li>Have a good day</li>
+            </random>
+        </template>
+    </category>    
+</aiml>
